@@ -7,4 +7,4 @@ this is 4line
 7th line aded
 this changes from feature-1
 this changes again from feature-1
-
+thsis changes to conflict 
